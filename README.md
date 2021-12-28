@@ -10,6 +10,10 @@
 
 ![update](https://github.com/dindaviera/Technical-Assignment-Deploy-Service-to-Server/blob/main/update.png)
 
+## Delete
+
+![delete](https://github.com/dindaviera/Technical-Assignment-Deploy-Service-to-Server/blob/main/delate.png)
+
 ### Link heroku
 
 https://heroku-hewan.herokuapp.com/
